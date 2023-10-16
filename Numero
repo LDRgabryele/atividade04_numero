@@ -1,0 +1,6 @@
+# Escreva um numero e veja qual o seu antecessor e seu sucessor! 
+print ("Descubra o número antercessor e sucessor de um número qualquer")
+numero= int(input("Digite o seu número: "))
+antercessor= numero-1
+sucessor= numero+1
+print (f"O antercessor do seu número é:  {antercessor} E o sucessor do seu número é: {sucessor}")
